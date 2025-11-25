@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Elysia Recliner Chair",
+    "category": "Chair",
+    "material": "Leather",
+    "color": "Dark Brown",
+    "dimensions": "36x32x40 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "A plush recliner with soft leather upholstery and ergonomic design, perfect for relaxing in living rooms or reading corners."
+  },
+  {
+    "name": "Aurora Wooden Dining Table",
+    "category": "Table",
+    "material": "Oak Wood",
+    "color": "Natural Wood",
+    "dimensions": "72x36x30 inches",
+    "style": "Rustic",
+    "comfort_level": "N/A",
+    "description": "Solid oak dining table with a natural finish, suitable for family meals and cozy dinners."
+  },
+  {
+    "name": "Luma Sofa",
+    "category": "Sofa",
+    "material": "Fabric",
+    "color": "Light Grey",
+    "dimensions": "84x36x32 inches",
+    "style": "Scandinavian",
+    "comfort_level": "High",
+    "description": "A minimalist Scandinavian-style sofa with soft fabric upholstery, ideal for small apartments and modern living spaces."
+  },
+  {
+    "name": "Nexa Office Desk",
+    "category": "Desk",
+    "material": "Metal & MDF",
+    "color": "Black",
+    "dimensions": "48x24x30 inches",
+    "style": "Industrial",
+    "comfort_level": "Medium",
+    "description": "Compact office desk with sturdy metal frame and smooth surface, perfect for home offices and work-from-home setups."
+  },
+  {
+    "name": "Celeste Bed Frame",
+    "category": "Bed",
+    "material": "Solid Wood",
+    "color": "White",
+    "dimensions": "60x80x42 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Queen-sized bed frame with solid wood construction and contemporary design, suitable for any modern bedroom."
+  },
+  {
+    "name": "Arlo Bookshelf",
+    "category": "Shelf",
+    "material": "Pine Wood",
+    "color": "Natural Wood",
+    "dimensions": "30x12x72 inches",
+    "style": "Minimalist",
+    "comfort_level": "N/A",
+    "description": "Tall pine bookshelf with open shelving, perfect for storing books, decor, and plants in a living room or office."
+  },
+  {
+    "name": "Vesper Nightstand",
+    "category": "Nightstand",
+    "material": "MDF & Veneer",
+    "color": "White",
+    "dimensions": "18x16x24 inches",
+    "style": "Modern",
+    "comfort_level": "N/A",
+    "description": "Compact nightstand with two drawers, ideal for bedrooms with modern or minimalist decor."
+  },
+  {
+    "name": "Orion Coffee Table",
+    "category": "Table",
+    "material": "Glass & Metal",
+    "color": "Black & Clear",
+    "dimensions": "48x24x18 inches",
+    "style": "Contemporary",
+    "comfort_level": "N/A",
+    "description": "A sleek glass coffee table with metal frame, perfect for modern living rooms and open spaces."
+  },
+  {
+    "name": "Fiona Armchair",
+    "category": "Chair",
+    "material": "Fabric",
+    "color": "Beige",
+    "dimensions": "32x30x35 inches",
+    "style": "Classic",
+    "comfort_level": "High",
+    "description": "Soft upholstered armchair with padded seat and back, ideal for reading nooks or living room corners."
+  },
+  {
+    "name": "Solace Sectional Sofa",
+    "category": "Sofa",
+    "material": "Fabric",
+    "color": "Charcoal Grey",
+    "dimensions": "110x38x34 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Spacious L-shaped sectional sofa with plush cushions, perfect for family rooms and home theaters."
+  },
+  {
+    "name": "Lyra Console Table",
+    "category": "Table",
+    "material": "Wood & Metal",
+    "color": "Brown & Black",
+    "dimensions": "48x14x30 inches",
+    "style": "Industrial",
+    "comfort_level": "N/A",
+    "description": "Slim console table with metal legs and wooden top, ideal for entryways or behind sofas."
+  },
+  {
+    "name": "Bergen Dining Chair",
+    "category": "Chair",
+    "material": "Wood & Fabric",
+    "color": "Dark Brown & Beige",
+    "dimensions": "18x20x36 inches",
+    "style": "Rustic",
+    "comfort_level": "Medium",
+    "description": "Sturdy dining chair with cushioned seat, perfect for family dining sets."
+  },
+  {
+    "name": "Cielo Chaise Lounge",
+    "category": "Chair",
+    "material": "Velvet",
+    "color": "Emerald Green",
+    "dimensions": "60x28x32 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Elegant chaise lounge with plush velvet upholstery, ideal for relaxation or reading in style."
+  },
+  {
+    "name": "Haven Twin Bed",
+    "category": "Bed",
+    "material": "Solid Wood",
+    "color": "Natural Oak",
+    "dimensions": "39x75x42 inches",
+    "style": "Scandinavian",
+    "comfort_level": "High",
+    "description": "Compact twin bed frame with natural wood finish, perfect for kids' rooms or small bedrooms."
+  },
+  {
+    "name": "Orla Office Chair",
+    "category": "Chair",
+    "material": "Mesh & Plastic",
+    "color": "Black",
+    "dimensions": "26x26x42 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Ergonomic office chair with breathable mesh back and adjustable height, ideal for home offices."
+  },
+  {
+    "name": "Vita TV Stand",
+    "category": "Cabinet",
+    "material": "MDF & Laminate",
+    "color": "Walnut",
+    "dimensions": "60x16x24 inches",
+    "style": "Mid-Century Modern",
+    "comfort_level": "N/A",
+    "description": "Stylish TV stand with storage drawers and open shelving, perfect for living rooms."
+  },
+  {
+    "name": "Solara Outdoor Sofa",
+    "category": "Sofa",
+    "material": "Rattan & Fabric",
+    "color": "Brown & Beige",
+    "dimensions": "80x34x32 inches",
+    "style": "Outdoor",
+    "comfort_level": "High",
+    "description": "Weather-resistant outdoor sofa with plush cushions, perfect for patios and gardens."
+  },
+  {
+    "name": "Nova Nightstand",
+    "category": "Nightstand",
+    "material": "Solid Wood",
+    "color": "Grey",
+    "dimensions": "20x18x24 inches",
+    "style": "Modern",
+    "comfort_level": "N/A",
+    "description": "Modern nightstand with drawer storage and sleek design, ideal for minimalist bedrooms."
+  },
+  {
+    "name": "Atlas Coffee Table",
+    "category": "Table",
+    "material": "Wood & Metal",
+    "color": "Dark Brown & Black",
+    "dimensions": "50x28x18 inches",
+    "style": "Industrial",
+    "comfort_level": "N/A",
+    "description": "Industrial-style coffee table with sturdy metal frame and wooden tabletop, suitable for modern living spaces."
+  },
+  {
+    "name": "Lorien Wardrobe",
+    "category": "Cabinet",
+    "material": "MDF & Laminate",
+    "color": "White",
+    "dimensions": "36x24x78 inches",
+    "style": "Contemporary",
+    "comfort_level": "N/A",
+    "description": "Compact wardrobe with hanging space and shelves, perfect for small bedrooms or apartments."
+  },
+  {
+    "name": "Zenith Bookshelf",
+    "category": "Shelf",
+    "material": "Metal & Wood",
+    "color": "Black & Brown",
+    "dimensions": "36x12x72 inches",
+    "style": "Industrial",
+    "comfort_level": "N/A",
+    "description": "Tall bookshelf with metal frame and wooden shelves, ideal for living rooms, offices, or studios."
+  },
+  {
+    "name": "Marlo Fabric Sofa",
+    "category": "Sofa",
+    "material": "Fabric",
+    "color": "Light Blue",
+    "dimensions": "78x34x32 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Comfortable three-seater sofa with soft fabric upholstery, perfect for modern living rooms."
+  },
+  {
+    "name": "Caden Desk",
+    "category": "Desk",
+    "material": "Wood & Metal",
+    "color": "Natural Wood & Black",
+    "dimensions": "50x24x30 inches",
+    "style": "Industrial",
+    "comfort_level": "Medium",
+    "description": "Industrial-style work desk with spacious tabletop and metal frame, suitable for home offices."
+  },
+  {
+    "name": "Evo Bar Stool",
+    "category": "Stool",
+    "material": "Metal & Leather",
+    "color": "Black",
+    "dimensions": "18x18x30 inches",
+    "style": "Modern",
+    "comfort_level": "Medium",
+    "description": "Sleek bar stool with leather seat and metal frame, ideal for kitchen islands or bars."
+  },
+  {
+    "name": "Lyric Accent Chair",
+    "category": "Chair",
+    "material": "Velvet",
+    "color": "Rose Pink",
+    "dimensions": "28x28x36 inches",
+    "style": "Contemporary",
+    "comfort_level": "High",
+    "description": "Elegant velvet accent chair perfect for bedrooms, living rooms, or cozy corners."
+  },
+  {
+    "name": "Solstice Dining Table",
+    "category": "Table",
+    "material": "Glass & Wood",
+    "color": "Clear & Dark Brown",
+    "dimensions": "72x36x30 inches",
+    "style": "Modern",
+    "comfort_level": "N/A",
+    "description": "Modern glass-top dining table with wooden legs, suitable for contemporary dining rooms."
+  },
+  {
+    "name": "Raven Nightstand",
+    "category": "Nightstand",
+    "material": "Metal & Wood",
+    "color": "Black & Brown",
+    "dimensions": "18x16x24 inches",
+    "style": "Industrial",
+    "comfort_level": "N/A",
+    "description": "Compact nightstand with metal frame and wooden drawer, perfect for industrial-themed bedrooms."
+  },
+  {
+    "name": "Aero Folding Chair",
+    "category": "Chair",
+    "material": "Metal & Fabric",
+    "color": "Grey",
+    "dimensions": "18x18x34 inches",
+    "style": "Minimalist",
+    "comfort_level": "Medium",
+    "description": "Practical folding chair with fabric seat and metal frame, ideal for extra seating in small spaces."
+  },
+  {
+    "name": "Palisade Sofa",
+    "category": "Sofa",
+    "material": "Fabric",
+    "color": "Dark Grey",
+    "dimensions": "82x36x34 inches",
+    "style": "Contemporary",
+    "comfort_level": "High",
+    "description": "Comfortable fabric sofa with sleek design, perfect for modern apartments and living rooms."
+  },
+  {
+    "name": "Quinn Desk",
+    "category": "Desk",
+    "material": "Wood",
+    "color": "Walnut",
+    "dimensions": "48x24x30 inches",
+    "style": "Mid-Century Modern",
+    "comfort_level": "Medium",
+    "description": "Mid-century modern desk with spacious surface and clean lines, ideal for home offices."
+  },
+  {
+    "name": "Ember Armchair",
+    "category": "Chair",
+    "material": "Leather",
+    "color": "Tan",
+    "dimensions": "32x32x36 inches",
+    "style": "Classic",
+    "comfort_level": "High",
+    "description": "Classic leather armchair with plush cushioning, ideal for reading or relaxing in the living room."
+  },
+  {
+    "name": "Cora Bed Frame",
+    "category": "Bed",
+    "material": "Metal",
+    "color": "Black",
+    "dimensions": "60x80x42 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Durable metal queen bed frame with sleek design, suitable for modern bedrooms."
+  },
+  {
+    "name": "Aster Bookshelf",
+    "category": "Shelf",
+    "material": "Wood",
+    "color": "White",
+    "dimensions": "30x12x72 inches",
+    "style": "Scandinavian",
+    "comfort_level": "N/A",
+    "description": "White wooden bookshelf with open shelving, ideal for organizing books and decor in living rooms or offices."
+  },
+  {
+    "name": "Lyra Storage Bench",
+    "category": "Bench",
+    "material": "Fabric & Wood",
+    "color": "Grey & Brown",
+    "dimensions": "48x16x18 inches",
+    "style": "Modern",
+    "comfort_level": "Medium",
+    "description": "Upholstered storage bench perfect for entryways or living rooms, offering both seating and hidden storage."
+  },
+  {
+    "name": "Nova Bar Table",
+    "category": "Table",
+    "material": "Metal & Wood",
+    "color": "Black & Brown",
+    "dimensions": "40x20x42 inches",
+    "style": "Industrial",
+    "comfort_level": "N/A",
+    "description": "Tall bar table with metal legs and wooden top, ideal for kitchen islands or casual dining areas."
+  },
+  {
+    "name": "Orion Corner Desk",
+    "category": "Desk",
+    "material": "Wood & Metal",
+    "color": "Walnut & Black",
+    "dimensions": "50x50x30 inches",
+    "style": "Modern",
+    "comfort_level": "Medium",
+    "description": "Space-saving corner desk with ample workspace and sturdy design, suitable for home offices."
+  },
+  {
+    "name": "Haven Dresser",
+    "category": "Cabinet",
+    "material": "Solid Wood",
+    "color": "Oak",
+    "dimensions": "60x18x36 inches",
+    "style": "Classic",
+    "comfort_level": "N/A",
+    "description": "Spacious wooden dresser with multiple drawers, ideal for storing clothing and accessories."
+  },
+  {
+    "name": "Solace Patio Chair",
+    "category": "Chair",
+    "material": "Rattan & Fabric",
+    "color": "Brown & Beige",
+    "dimensions": "28x28x34 inches",
+    "style": "Outdoor",
+    "comfort_level": "High",
+    "description": "Weather-resistant patio chair with cushioned seat, perfect for outdoor lounging."
+  },
+  {
+    "name": "Celeste King Bed",
+    "category": "Bed",
+    "material": "Solid Wood",
+    "color": "White",
+    "dimensions": "76x80x42 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "King-sized bed frame with solid wood construction, ideal for spacious modern bedrooms."
+  },
+  {
+    "name": "Vesper Side Table",
+    "category": "Table",
+    "material": "Metal & Glass",
+    "color": "Black & Clear",
+    "dimensions": "20x20x22 inches",
+    "style": "Contemporary",
+    "comfort_level": "N/A",
+    "description": "Compact side table with glass top, perfect for living room or bedroom use."
+  },
+  {
+    "name": "Arlo Floating Shelf",
+    "category": "Shelf",
+    "material": "Wood",
+    "color": "Natural",
+    "dimensions": "36x8x2 inches",
+    "style": "Minimalist",
+    "comfort_level": "N/A",
+    "description": "Wall-mounted floating shelf ideal for displaying decor, photos, or small plants."
+  },
+  {
+    "name": "Fiona Recliner Sofa",
+    "category": "Sofa",
+    "material": "Fabric",
+    "color": "Beige",
+    "dimensions": "90x36x34 inches",
+    "style": "Classic",
+    "comfort_level": "High",
+    "description": "Two-seater reclining sofa with plush cushions, perfect for living rooms or home theaters."
+  },
+  {
+    "name": "Lyric Ottoman",
+    "category": "Stool",
+    "material": "Fabric",
+    "color": "Grey",
+    "dimensions": "24x24x16 inches",
+    "style": "Modern",
+    "comfort_level": "Medium",
+    "description": "Soft upholstered ottoman ideal for living room seating or as a footrest."
+  },
+  {
+    "name": "Zenith Ladder Shelf",
+    "category": "Shelf",
+    "material": "Wood & Metal",
+    "color": "Black & Brown",
+    "dimensions": "30x12x72 inches",
+    "style": "Industrial",
+    "comfort_level": "N/A",
+    "description": "Ladder-style shelving unit perfect for books, decor, or plants in any room."
+  },
+  {
+    "name": "Orla Executive Chair",
+    "category": "Chair",
+    "material": "Leather & Metal",
+    "color": "Black",
+    "dimensions": "28x28x42 inches",
+    "style": "Modern",
+    "comfort_level": "High",
+    "description": "Luxurious executive office chair with leather upholstery and ergonomic design for long working hours."
+  },
+  {
+    "name": "Aurora Extendable Dining Table",
+    "category": "Table",
+    "material": "Oak Wood",
+    "color": "Natural Wood",
+    "dimensions": "72-96x36x30 inches",
+    "style": "Rustic",
+    "comfort_level": "N/A",
+    "description": "Extendable oak dining table, perfect for family gatherings or dinner parties."
+  }
+]
