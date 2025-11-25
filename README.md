@@ -1,5 +1,7 @@
 # 🧠 RAG App with MongoDB Atlas Vector Search + Local LLM (Ollama)
 
+### Python version < 3.10
+
 This project demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline using:
 
 - **MongoDB Atlas Vector Search**
@@ -55,3 +57,4 @@ pip install -r requirements.txt
 
 Run the Gradio RAG App
 http://localhost:7860
+
